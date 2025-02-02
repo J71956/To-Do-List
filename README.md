@@ -1,2 +1,1 @@
-# Python-Projects
-Small Python Projects
+# To DO list
